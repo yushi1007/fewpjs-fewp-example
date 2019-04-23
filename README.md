@@ -54,7 +54,7 @@ Twitter), the interaction goes something like this:
 If all goes as it should, the entire interaction only takes a second or two. But
 even this small interaction demonstrates all the concepts of front end web programming.
 
-### The "Three Pillars of Web Programming"
+### Flatiron's "Three Pillars of Web Programming"
 
 We can break down web programming into three essential "pillars": 
 
